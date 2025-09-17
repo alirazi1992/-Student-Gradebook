@@ -24,5 +24,5 @@ You can add students, record grades, calculate statistics, and save/load everyth
 
 ## Screen Shots
 
-### 🎵 Music Playlist App
-<img src="./Garde.png" alt="Main Window" width="500"/>
+### 📊 Student Gradebook
+<img src="./Grade.png" alt="Main Window" width="500"/>
