@@ -1,0 +1,14 @@
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\bin\Debug\net8.0\StudentGradeBook.exe
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\bin\Debug\net8.0\StudentGradeBook.deps.json
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\bin\Debug\net8.0\StudentGradeBook.runtimeconfig.json
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\bin\Debug\net8.0\StudentGradeBook.dll
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\bin\Debug\net8.0\StudentGradeBook.pdb
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\StudentGradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\StudentGradeBook.AssemblyInfoInputs.cache
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\StudentGradeBook.AssemblyInfo.cs
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\StudentGradeBook.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\StudentGradeBook.dll
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\refint\StudentGradeBook.dll
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\StudentGradeBook.pdb
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\StudentGradeBook.genruntimeconfig.cache
+C:\Users\a.razi\source\repos\StudentGradeBook\StudentGradeBook\obj\Debug\net8.0\ref\StudentGradeBook.dll
