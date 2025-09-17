@@ -21,13 +21,8 @@ You can add students, record grades, calculate statistics, and save/load everyth
 ### Requirements
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
-### Run the App
-```bash
-# clone this repo or create a new console project
-dotnet run
----
 
 ## Screen Shots
 
 ### 🎵 Music Playlist App
-<img src="./Garde.png" alt="Main Window" width="500"/>
+<img src="./Garde .png" alt="Main Window" width="500"/>
